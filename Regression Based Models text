@@ -1,0 +1,26 @@
+Assumptions of Linear Regression
+
+Linearity
+Homoscedacity
+Multivariate normality
+Independence of errors
+Lack of Multicollinearity
+
+Simple linear regression
+y =ax+b
+
+Muliple linear regression
+y = ax1+ax2+ax3 + axn+b
+
+Polynomial Regression
+y = ax1 + ax12 +ax13 + axn n + b
+
+R square Intution
+
+Mean squared error
+evaluation metrics
+
+adjusted r square
+
+all metrics
+
